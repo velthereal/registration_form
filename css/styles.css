@@ -67,6 +67,7 @@ input[type="password"]::placeholder{
 	border-radius: 50%;
 	border-left: solid 3px #000;
 	background: url(../images/bg1.jpg);
+	background-size: 4%;
 }
 .btn i {
 	position: absolute;
